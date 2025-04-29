@@ -19,8 +19,10 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Huegan - Color Palette Generator",
-  description: "Create beautiful and harmonious color palettes for your designs",
+  title: "Huegan - Color Palette Generator by Ashwin Kumar",
+  description: "Create beautiful and harmonious color palettes for your designs. Created by Ashwin Kumar Uma Sankar.",
+  authors: [{ name: "Ashwin Kumar Uma Sankar", url: "https://ashxinkumar.me" }],
+  creator: "Ashwin Kumar Uma Sankar",
     generator: 'v0.dev'
 }
 
