@@ -1,6 +1,6 @@
 # Huegan - Color Palette Generator
 
-![Huegan Banner](/placeholder.svg?height=300&width=800&query=color%20palette%20generator%20banner%20with%20vibrant%20colors)
+![Visit Huegan APP](/https://huegan.vercel.app/)
 
 ## Overview
 
@@ -50,7 +50,7 @@ Huegan is a modern, interactive color palette generator that helps designers and
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/huegan.git
+git clone https://github.com/Itaxh1/Huegan
 cd huegan
 \`\`\`
 
